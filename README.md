@@ -117,4 +117,4 @@ Nome: [Seu Nome]
 
 E-mail: [seu-email@exemplo.com]
 
-GitHub: seu-usuario-github
+GitHub: seu-usuario-github# tradutor_pdf
