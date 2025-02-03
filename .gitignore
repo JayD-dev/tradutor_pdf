@@ -1,0 +1,59 @@
+# Ignorar arquivos de ambiente virtual
+venv/
+env/
+.venv/
+ENV/
+
+# Ignorar arquivos de cache e logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.pot
+
+# Ignorar arquivos de configuração local
+*.local
+*.env
+.env
+.env.local
+
+# Ignorar arquivos de IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+
+# Ignorar arquivos de banco de dados
+*.db
+*.sqlite3
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de teste e cobertura
+.coverage
+htmlcov/
+.pytest_cache/
+test_results/
+
+# Ignorar arquivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de dependências
+node_modules/
+bower_components/
+
+# Ignorar arquivos de backup
+*.bak
+*.backup
